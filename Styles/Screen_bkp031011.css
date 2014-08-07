@@ -1,0 +1,1079 @@
+﻿/********************************************************
+* Polishop Com Você - Copyright 2010
+* CSS Version: 2.1
+*********************************************************
+* Filename  : Screen.css
+* Version   : 1.0
+* Date      : 26/11/2010
+
+********************************************************/
+
+/********************************************************
+=|general
+********************************************************/
+*
+{
+    font-family: Arial, Sans-Serif;
+    font-size: 13px;
+    margin: 0;
+    padding: 0;
+}
+
+body#home
+{
+    background: url("../Images/bgSiteHome.png");
+}
+
+body#internal
+{
+    background: url("../Images/bgSiteInternal.png");
+}
+
+div#myOfficeToggle
+{
+    background: #d00b27;
+    height: 5px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0;
+}
+
+div#container
+{
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0;
+    width: 980px;
+}
+
+/********************************************************
+=|toggle button
+********************************************************/
+div#toggleButton
+{
+    display: block;
+    padding-right: 10px;
+    float: right;
+    height: 34px;
+    width: 135px;
+}
+
+div#toggleButton img
+{
+    border: none;
+}
+
+/********************************************************
+=|blog button
+********************************************************/
+div#blogButton
+{
+    padding-right: 10px;
+    display: block;
+    float: right;
+    height: 34px;
+    width: 135px;
+}
+
+div#blogButton img
+{
+    border: none;
+}
+/********************************************************
+=|chat button
+********************************************************/
+div#chatButton
+{
+    display: block;
+    float: right;
+    height: 34px;
+    width: 135px;
+}
+
+div#chatButton img
+{
+    display: block;
+    border: none;
+    padding-right: 10px;
+}
+/********************************************************
+=|header
+********************************************************/
+div#header
+{
+    height: 106px;
+    margin: 0;
+    padding: 0;
+}
+
+/********************************************************
+=|header >> logo
+********************************************************/
+div#header div#logo
+{
+    height: 75px;
+    padding: 13px 0 0 0;
+    width: 167px;
+}
+
+div#header div#logo img
+{
+    border: 0;
+    height: 75px;
+    width: 167px;
+}
+
+/********************************************************
+=|header >> menu
+********************************************************/
+div#header div#menu
+{
+    float: right;
+    height: 22px;
+    margin: -29px 0 0 0;
+}
+
+div#header div#menu ul.dropdown
+{
+    list-style: none;
+    position: relative;
+    white-space: nowrap;
+}
+
+div#header div#menu ul.dropdown li
+{
+    float: left;
+    height: 23px;
+    margin: 0;
+    padding: 0;
+}
+
+div#header div#menu ul.dropdown li.separator
+{
+    width: 3px;
+}
+
+div#header div#menu ul.dropdown img
+{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+div#header div#menu ul.dropdown li a
+{
+    display: block;
+}
+
+div#header div#menu ul.dropdown li.hover, div#header div#menu ul.dropdown li:hover
+{
+    position: relative;
+}
+
+div#header div#menu ul.dropdown ul
+{
+    list-style: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 162px;
+    visibility: hidden;
+}
+
+div#header div#menu ul.dropdown ul li
+{
+    background: #f2fbff;
+    border-bottom: 1px dotted #a6a6a6;
+    height: 26px;
+    float: none;
+}
+
+div#header div#menu ul.dropdown ul li a
+{
+    width: 100%;
+    display: inline-block;
+}
+
+/********************************************************
+=|home banner
+********************************************************/
+div#homeBanner
+{
+    background: #e6e6e6;
+    border: 0px solid #bdbdbd;
+    height: 304px;
+    width: 978px;
+}
+
+/********************************************************
+=|internal banner
+********************************************************/
+div#internalBanner
+{
+    background: #e6e6e6;
+    border: 1px solid #bdbdbd;
+    height: 205px;
+    width: 978px;
+}
+
+/********************************************************
+=|main
+********************************************************/
+body#home div#main
+{
+    height: 120px;
+}
+
+body#internal div#main
+{
+}
+
+div#main div.title
+{
+    margin: 23px 0 0px 0;
+}
+
+div#main p
+{
+    color: #000000;
+}
+
+/********************************************************
+=|main >> box bannerarea1
+********************************************************/
+div#main div.boxBannerarea1
+{
+    float: left;
+    height: 470px;
+    margin: 16px 0px 0 0;
+    width: 634px;
+}
+
+div#main div.boxBannerarea1 div.title
+{
+    margin: 10px 0 7px 0;
+}
+
+div#main div.boxBannerarea1 div.thumb
+{
+    border: 1px solid #b6b6b6;
+    height: 190px;
+    margin: 7px 0 0 0;
+    width: 265px;
+}
+
+div#main div.boxBannerarea1 div.thumb img
+{
+    height: 190px;
+    width: 265px;
+}
+
+div#main div.boxBannerarea1 p
+{
+    color: #000;
+    margin: 4px 0 0 0;
+}
+
+div#main div.boxBannerarea1 p a
+{
+    color: #000;
+}
+/********************************************************
+=|main >> box Login
+********************************************************/
+div#boxlogin
+{
+    height: 750px;
+    width: 990px;
+    background: #f9f9f9;
+    margin-top: 30px;
+    margin-right: 12px;
+    margin-bottom: 0;
+}
+div#boxlogin div.TitLogin
+{
+    float: left;
+    display: block;
+    height: 80px;
+    width: 660px;
+    margin-left: 150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+div#boxlogin div.boxlogin_1
+{
+    float: left;
+    display: block;
+    height: 517px;
+    width: 390px;
+    margin-left: 80px;
+    margin-bottom: 0;
+}
+
+div#boxlogin div.boxlogin_2
+{
+    float: left;
+    display: block;
+    height: 517px;
+    width: 390px;
+    margin-left: 40px;
+    margin-bottom: 0;
+}
+
+/********************************************************
+=|main >> box bannerarea2
+********************************************************/
+div#main div.boxBannerarea2
+{
+    float: left;
+    height: 300px;
+    width: 742px;
+    margin-top: 16px;
+    margin-right: 12px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+div#main div.boxformularioBannerarea2
+{
+    float: left;
+    height: 230px;
+    width: 625px;
+    margin-top: 0px;
+    margin-right: 12px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+div#main div.boxBannerarea2 div.title
+{
+    margin: 10px 0 7px 0;
+}
+
+div#main div.boxBannerarea2 div.thumb
+{
+    border: 1px solid #b6b6b6;
+    height: 190px;
+    margin: 7px 0 0 0;
+    width: 265px;
+}
+
+div#main div.boxBannerarea2 div.thumb img
+{
+    height: 190px;
+    width: 265px;
+}
+
+div#main div.boxBannerarea2 p
+{
+    color: #695c5c;
+    margin: 4px 0 0 0;
+}
+
+div#main div.boxBannerarea2 p a
+{
+    color: #695c5c;
+}
+
+/********************************************************
+=|main >> box formulario
+********************************************************/
+div#main div.formularioarea2
+{
+    float: left;
+    height: 300px;
+    margin: 16px 12px 0 0;
+    width: 625px;
+}
+
+div#main div.formularioarea2 div.title
+{
+    margin: 10px 0 7px 0;
+}
+
+div#main div.formularioarea2 div.thumb
+{
+    border: 1px solid #b6b6b6;
+    height: 190px;
+    margin: 7px 0 0 0;
+    width: 265px;
+}
+
+div#main div.formularioarea2 div.thumb img
+{
+    height: 190px;
+    width: 265px;
+}
+
+div#main div.formularioarea2 p
+{
+    color: #695c5c;
+    margin: 4px 0 0 0;
+}
+
+div#main div.formularioarea2 p a
+{
+    color: #695c5c;
+}
+
+
+/********************************************************
+=|main >> box banner
+********************************************************/
+div#main div.boxBanner
+{
+    float: left;
+    height: 292px;
+    margin: 0px 49px 10px 0px;
+    width: 267px;
+}
+
+div#main div.boxBanner div.title
+{
+    margin: 15px 0 7px 0;
+}
+
+div#main div.boxBanner div.thumb
+{
+    border: 1px solid #b6b6b6;
+    height: 190px;
+    margin: 7px 0 0 0;
+    width: 265px;
+}
+
+div#main div.boxBanner div.thumb img
+{
+    height: 190px;
+    width: 265px;
+}
+
+div#main div.boxBanner p
+{
+    color: #000;
+    margin: 4px 0 0 0;
+}
+
+div#main div.boxBanner p a
+{
+    color: #000;
+}
+
+/********************************************************
+=|main >> internal box
+********************************************************/
+div#main div#internalBox
+{
+    background: url("../Images/bgInternalBox.png") no-repeat;
+    border: 1px solid #c6c6c6;
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+div#main div#internalBox div.title
+{
+    background: url("../Images/bgTitleInternal.png") no-repeat;
+    height: 53px;
+    margin: 18px 0 0 15px;
+    width: 947px;
+}
+
+div#main div#internalBox div.title img
+{
+    height: 32px;
+    margin: 6px 0 0 9px;
+}
+
+div#main div#internalBox div.title p
+{
+    color: #000000;
+    height: 10px;
+    margin: -3px 0 0 9px;
+}
+
+/********************************************************
+=|main >> thumb movie
+********************************************************/
+div#main div#internalBox div.thumbMovie
+{
+    background: #fff;
+    float: left;
+    height: 192px;
+    margin: 23px 28px 26px 15px;
+    width: 287px;
+}
+
+div#main div#internalBox div.thumbMovieEnd
+{
+    background: #fff;
+    float: left;
+    height: 192px;
+    margin: 23px 0 26px 15px;
+    width: 287px;
+}
+
+div.thumbMovie object, div.thumbMovieEnd object
+{
+    height: 192px;
+    width: 287px;
+}
+
+/********************************************************
+=|footer
+********************************************************/
+div#footer
+{
+    background: #f2f2f2;
+    border-top: 1px dotted #a6a6a6;
+    clear: both;
+    height: 50px;
+}
+
+/********************************************************
+=|footer >> payment
+********************************************************/
+div#footer div#payment
+{
+    border-right: 1px solid #fff;
+    float: left;
+    height: 50px;
+    width: 255px;
+}
+div#footer div#compartilhe
+{
+    border-right: 1px solid #fff;
+    float: left;
+    height: 77px;
+    width: 255px;
+}
+
+div#footer div#payment h4
+{
+    color: #4e4e4e;
+    margin: 16px 0 0 17px;
+    text-transform: uppercase;
+}
+
+div#footer div#payment p
+{
+    color: #000;
+    font-size: 9px;
+    margin: 3px 17px 0 17px;
+}
+
+/********************************************************
+=|footer >> footer menu
+********************************************************/
+div#footer div#footerMenu
+{
+    border-left: 1px solid #e2e2e2;
+    float: left;
+    height: 50px;
+    width: 720px;
+    clear: none;
+}
+
+div#footer div#footerMenu p
+{
+    color: #a0a0a0;
+    font-size: 11px;
+    margin: 3px 17px 0 17px;
+}
+
+div#footer div#footerMenu h4
+{
+    color: #4e4e4e;
+    margin: 16px 0 0 17px;
+    text-transform: uppercase;
+}
+
+div#footer div#footerMenu ul
+{
+    margin: 3px 0 0 17px;
+}
+
+div#footer div#footerMenu ul li
+{
+    display: inline;
+}
+
+div#footer div#footerMenu ul li a
+{
+    color: #a0a0a0;
+    font-size: 9px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+/********************************************************
+=|footer >> certified by
+********************************************************/
+div#footer div#certifiedBy
+{
+    float: left;
+    height: 77px;
+}
+
+div#footer div#certifiedBy p
+{
+    color: #a0a0a0;
+    font-size: 9px;
+    margin: 3px 17px 0 17px;
+}
+
+div#footer div#certifiedBy h4
+{
+    color: #4e4e4e;
+    margin: 16px 0 0 17px;
+    text-transform: uppercase;
+}
+
+div#footer div#certifiedBy ul
+{
+    margin: 3px 0 0 17px;
+}
+
+div#footer div#certifiedBy ul li
+{
+    display: inline;
+    margin: 0 16px 0 0;
+}
+
+div#footer div#certifiedBy ul li img
+{
+    border: none;
+}
+
+/********************************************************
+=|copy
+********************************************************/
+div#copy
+{
+    height: 33px;
+    margin: 0 0 40px 0;
+}
+
+div#copy p
+{
+    color: #999;
+    float: left;
+    font-size: 9px;
+    font-weight: bold;
+    padding: 19px 0 0 300px;
+    text-transform: uppercase;
+    width: 308px;
+}
+
+div#copy div#countryMenu
+{
+    float: right;
+    height: 24px;
+    padding: 9px 300px 0 0;
+    width: 57px;
+}
+
+/********************************************************
+=|main >> box faleconosco
+********************************************************/
+div#main div.boxfaleconosco
+{
+    float: left;
+    height: 391px;
+    width: 620px;
+    margin-top: 0px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+
+/********************************************************
+=|main >> box produtos
+********************************************************/
+div#main div.boxprodutos
+{
+    float: left;
+    height: 205px;
+    width: 200px;
+    margin-top: 16px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+/********************************************************
+=|main >> box associacao
+********************************************************/
+div#main div.boxassociacao
+{
+    float: left;
+    height: 111px;
+    width: 200px;
+    margin-top: 16px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+/********************************************************
+=|main >> box oportunidades
+********************************************************/
+div#main div.boxoportunidades
+{
+    float: left;
+    height: 600px;
+    width: 635px;
+    margin-top: 16px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+/********************************************************
+=|main >> box caixapostal
+********************************************************/
+div#main div.boxcaixapostal
+{
+    float: left;
+    height: 170px;
+    width: 500px;
+    margin-top: 16px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+
+/********************************************************
+=|main >> box text associacao
+********************************************************/
+div#main div.boxtxtassociacao
+{
+    float: left;
+    height: 111px;
+    width: 680px;
+    margin-top: 16px;
+    margin-right: 52px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+/********************************************************
+=|main >> box text home
+********************************************************/
+div#main div.boxtxthomechamada1
+{
+    float: left;
+    height: 111px;
+    width: 680px;
+    margin-top: 16px;
+    margin-right: 52px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+/********************************************************
+=|main >> box text produtos
+********************************************************/
+div#main div.boxtxtprodutos
+{
+    float: left;
+    height: 55px;
+    width: 977px;
+    margin-top: 0px;
+    margin-right: 52px;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+/********************************************************
+=|main >> box movieinterno
+********************************************************/
+div#main div.boxMovieinterno
+{
+    background: url("../Images/bgBoxMovie.png");
+    float: left;
+    height: 285px;
+    margin: 16px 0 0 1px;
+    width: 341px;
+}
+
+div#main div.boxMovie div.title
+{
+    margin: 15px 0 7px 11px;
+}
+
+div#main div.boxMovie object
+{
+    height: 192px;
+    margin: 0 0 0 12px;
+    width: 316px;
+}
+
+div#main div.boxMovie p
+{
+    color: #695c5c;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.boxMovie p a
+{
+    color: #695c5c;
+}
+/********************************************************
+=|main >> box movie
+********************************************************/
+div#main div.boxMovie
+{
+    background: url("../Images/bgBoxMovie.png");
+    float: left;
+    height: 310px;
+    margin: 16px 0 0 1px;
+    width: 341px;
+}
+
+div#main div.boxMovie div.title
+{
+    margin: 8px 0 4px 11px;
+}
+
+div#main div.boxMovie object
+{
+    height: 192px;
+    margin: 0 0 0 11px;
+    width: 316px;
+}
+
+div#main div.boxMovie p
+{
+    color: #000;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.boxMovie p a
+{
+    color: #695c5c;
+}
+/********************************************************
+=|main >> box relacionamento
+********************************************************/
+div#main div.boxRelacionamento
+{
+    background: url("../Images/bgBoxMovie.png");
+    float: left;
+    height: 210px;
+    margin: 16px 0 0 1px;
+    width: 341px;
+}
+
+div#main div.boxRelacionamento div.title
+{
+    margin: 8px 0 4px 11px;
+}
+
+div#main div.boxRelacionamento object
+{
+    height: 192px;
+    margin: 0 0 0 11px;
+    width: 316px;
+}
+
+div#main div.boxRelacionamento p
+{
+    color: #000;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.boxRelacionamento p a
+{
+    color: #695c5c;
+}
+/********************************************************
+=|main >> box adquira
+********************************************************/
+div#main div.adquira
+{
+    float: left;
+    height: 134px;
+    margin: 15px 0 0 1px;
+    width: 341px;
+}
+
+div#main div.adquira div.title
+{
+    margin: 22px 0 7px 14px;
+}
+
+div#main div.adquira object
+{
+    height: 192px;
+    margin: 0 0 0 11px;
+    width: 316px;
+}
+
+div#main div.adquira p
+{
+    color: #695c5c;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.boxMovie p a
+{
+    color: #000;
+}
+
+/********************************************************
+=|main >> box revista
+********************************************************/
+div#main div.revista
+{
+    background: url("../Images/bgBoxRevista.png");
+    float: left;
+    height: 440px;
+    width: 224px;
+    margin-top: 20px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+
+div#main div.revista div.title
+{
+    margin: 15px 0 7px 14px;
+}
+
+div#main div.revista object
+{
+    height: 192px;
+    margin: 0 0 0 11px;
+    width: 316px;
+}
+
+div#main div.revista p
+{
+    color: #695c5c;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.revista p a
+{
+    color: #695c5c;
+}
+
+/********************************************************
+=|main >> box formulario
+********************************************************/
+div#main div.formulario
+{
+    background: url("../Images/bgBoxRevista.png");
+    float: left;
+    height: 100px;
+    width: 341px;
+    margin-top: 0px;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 1px;
+}
+
+div#main div.formulario div.title
+{
+    margin: 15px 0 7px 14px;
+}
+
+div#main div.formulario object
+{
+    height: 192px;
+    margin: 0 0 0 11px;
+    width: 316px;
+}
+
+div#main div.formulario p
+{
+    color: #695c5c;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.formulario p a
+{
+    color: #695c5c;
+}
+
+
+
+/********************************************************
+=|main >> box moviefale
+********************************************************/
+div#main div.boxMoviefale
+{
+    background: url("../Images/box_placa_fale_conosco.jpg");
+    float: left;
+    height: 310px;
+    margin: 44px 0 0 1px;
+    width: 341px;
+}
+
+div#main div.boxMoviefale div.title
+{
+    margin: 15px 0 7px 11px;
+}
+
+div#main div.boxMoviefale object
+{
+    height: 192px;
+    margin: 0 0 0 11px;
+    width: 316px;
+}
+
+div#main div.boxMoviefale p
+{
+    color: #695c5c;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.boxMoviefale p a
+{
+    color: #695c5c;
+}
+
+/********************************************************
+=|main >> box form
+********************************************************/
+div#main div.boxFormulario
+{
+    float: center;
+    height: 60px;
+    margin: 44px 0 0 1px;
+    width: 550px;
+}
+
+div#main div.boxFormulario div.title
+{
+    margin: 15px 0 7px 11px;
+}
+
+div#main div.boxFormulario object
+{
+    height: 192px;
+    margin: 0 0 0 11px;
+    width: 316px;
+}
+
+div#main div.boxFormulario p
+{
+    color: #695c5c;
+    margin: 4px 0 0 11px;
+}
+
+div#main div.boxFormulario p a
+{
+    color: #695c5c;
+}
+/********************************************************
+=|Decoração textos
+********************************************************/
+.texto_red
+{
+    font-family: Arial, Sans-Serif;
+    font-size: 13px;
+    color: #ed1c24;
+    font-style: inherit;
+}
+.texto_Black
+{
+    font-family: Arial, Sans-Serif;
+    font-size: 13px;
+    color: #000;
+    font-style: inherit;
+}

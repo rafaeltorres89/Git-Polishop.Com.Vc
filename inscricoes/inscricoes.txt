@@ -1,0 +1,40 @@
+nome;telefone;email;id;qtde convites
+diego peres de rezende;06492244607;diego_terraplanet@hotmail.com;21;2
+Marcos;11 8833 7657;marcosrochasoares@ig.com.br;002432;4
+Leonardo A L Rossi de Sá;(21) 9984-7794;rossileo@gmail.com;ROSSI;5
+Ricardo Alberto Kossatz;(42)3222-3570;kossatz02@hotmail.com;kossatz;1
+Adailjo Roberto Farias Bezerra;83 8848 2071;robertofariaspb@hotmail.com;robertofarias;2
+Daniel santana;19 - 81514661;creditocerto@bol.com.br;DANIEL SANTANA;1
+eliana benigna;31 35957371;elianabenigna@hotmail.com;benigna;2
+Eustaquio Carlos de Oliveira;(13) 3301-7135 / 3029-0021;eustaquiobill@yahoo.com.br;BILL;10
+Luiz Henrique Ribeiro Soares;31-92654320;diamantepolishop@gmail.com;diamanterico;10
+Roberto C. Baldo;(47)88469769;robertobaldo@ig.com.br;http://www.linkedin.com/profile/view?id=102843165&trk=tab_pro;2
+Joao Bosco Cardoso da Silva;(11)34519986;ionsm@hotmail.com;IONSMJB;1
+Mauro Cesar da Silva;11-41821300;mrnaina@bol.com.br;CARLOSREIS;1
+Mario Geosildo Bassani Alves;(41) 3434-5069;mariobassani@gmail.com;bassani;2
+Sueli Miranda;11-84196855;angel.cristel@gmail.com;sueifram;2
+Ranieri Slemer;11 4119-3580;rslemer@gmail.com;1;2
+Ney Kras Borges Filho;(51) 93563566;neyk@terra.com.br;negociocerto;5
+MARIA NILZA DA CONÇEIÇÃO MOTA;(69) 3223-6719;nilza_m_campos@hotmail.com;NILZACAMPOS;2
+Maria do Carmo da Silva Menezes Teodoro;(11) 4184-9236;menezesteodoro@ig.com.br;majuteo;1
+André Babá Nascimento;13 - 9134-8275;deh_baba@hotmail.com;BABA;15
+Enio Alves;(35) 8845-8880;sejaumvencedor@live.com;SEJAVENCEDOR;5
+Vitor Hugo Galuzzi;(11) 7598-9920;v_galuzzi@hotmail.com;GALUZZI;1
+Thiago Pereira Santana;(77)3455-1980;thiagobinha@gmail.com;exclusivo;1
+VILMAR GARCIA COUTO;71 36455816;vilmarcouto@hotmail.com;JESUSCRISTO;1
+Valdir Kará da Fonseca;(11) 9933-4694;vkfeassociados@gmail.com;?;1
+Mario Geosildo Bassani Alves;41 9205-2740;mariobassani@gmail.com;bassani;5
+katiele pereira antunes;65 36845539 65 84013300;katielepereira@hotmail.com;katiele;15
+Bernardo Ferreira Caneca Pereira;(24)8825-1969;bernardo.caneca@gmail.com;CANECA;5
+jefferson ;(21)92149677;ngrenda@hotmail.com;cleilton;1
+Dimitrios;(11)77367440;dimitrios@dimitrios.com.br;dimitrios;5
+Thalita Faria Munhoz;(11) 84105689;thalifaria@gmail.com;thalifaria;1
+Mariana Jardim;(21) 8772-3141;marianajardim1@hotmail.com;JARDIM;2
+Uanderson Junior da costa ;21-7720-1140;WANDERSON_2_2@HOTMAIL.COM;104*194375;1
+YARACY REGINA;(21)8531-9397;yarinha40@globo.com;yara;1
+Rodolfo Silva;(47) 96018431;rodolfootorres@hotmail.com;Rodolfo;1
+Priscilla;(13) 3379-4844;pcassalver@bol.com.br;redemaster;1
+Ruy Bezerra Junior;(11)7729-1641;rbezerra001@hotmail.com;R JR BEZERRA;2
+Neuseli Martins Costa;(11) 51815962;neuseli.costa@gmail.com;redemaster;01
+Roberto Moreno de Brito;(21) 9790-6557;roberto.publicidade@hotmail.com;ROBERTO MORENO;01
+WILSON RODRIGUES;(11) 2037-7149;wilson-mkt@hotmail.com;WILSONPOLI;3
